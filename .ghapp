@@ -1,10 +1,9 @@
 {
   "id": 45729942,
   "created_at": "2024-01-03T21:08:16.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["noaa-fims.r-universe.dev"]
+  }
 }
