@@ -5,6 +5,15 @@
 [submodule "FIMS"]
 	path = FIMS
 	url = https://github.com/noaa-fims/fims
+	branch = main
+[submodule "FIMS-dev"]
+	path = FIMS-dev
+	url = https://github.com/noaa-fims/fims
+	branch = dev
+[submodule "FIMS-dev-test-runiverse"]
+	path = FIMS-dev-test-runiverse
+	url = https://github.com/noaa-fims/fims
+	branch = dev-test-r-universe
 [submodule "TMBhelper"]
 	path = TMBhelper
 	url = https://github.com/kaskr/TMB_contrib_R
