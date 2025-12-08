@@ -18,6 +18,30 @@
 	path = TMBhelper
 	url = https://github.com/kaskr/TMB_contrib_R
 	subdir = TMBhelper
+[submodule "asar"]
+	path = asar
+	url = https://github.com/nmfs-ost/asar
+	registered = false
+[submodule "gitlabr"]
+	path = gitlabr
+	url = https://github.com/ThinkR-open/gitlabr
+	registered = false
+[submodule "lozen"]
+	path = lozen
+	url = https://github.com/ThinkR-open/lozen
+	registered = false
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
+[submodule "stockplotr"]
+	path = stockplotr
+	url = https://github.com/nmfs-ost/stockplotr
+	registered = false
+[submodule "testdown"]
+	path = testdown
+	url = https://github.com/ThinkR-open/testdown
+	registered = false
+[submodule "thinkrtemplate"]
+	path = thinkrtemplate
+	url = https://github.com/ThinkR-open/thinkrtemplate
+	registered = false
