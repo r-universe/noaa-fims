@@ -18,10 +18,6 @@
 	path = TMBhelper
 	url = https://github.com/kaskr/TMB_contrib_R
 	subdir = TMBhelper
-[submodule "asar"]
-	path = asar
-	url = https://github.com/nmfs-ost/asar
-	registered = false
 [submodule "gitlabr"]
 	path = gitlabr
 	url = https://github.com/ThinkR-open/gitlabr

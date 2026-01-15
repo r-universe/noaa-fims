@@ -1,11 +1,5 @@
 [
   {
-    "package": "asar",
-    "url": "https://github.com/nmfs-ost/asar",
-    "via": ["FIMS", "stockplotr"],
-    "from": "FIMS"
-  },
-  {
     "package": "gitlabr",
     "url": "https://github.com/ThinkR-open/gitlabr",
     "via": ["FIMS", "lozen"],
@@ -15,12 +9,6 @@
     "package": "lozen",
     "url": "https://github.com/ThinkR-open/lozen",
     "via": ["FIMS"],
-    "from": "FIMS"
-  },
-  {
-    "package": "r4ss",
-    "url": "https://github.com/r4ss/r4ss",
-    "via": ["FIMS", "stockplotr", "asar"],
     "from": "FIMS"
   },
   {
